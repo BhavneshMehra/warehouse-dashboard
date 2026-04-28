@@ -3,6 +3,8 @@
 ## ⚡ Live Dashboard Preview
 ![Dashboard](assets/dashboard1.png)
 
+![Dashboard](assets/dashboard2.png)
+
 ---
 
 ## 🔄 Real-Time Automation Demo
