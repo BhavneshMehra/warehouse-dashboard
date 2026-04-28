@@ -1,5 +1,15 @@
 # 📦 Real-Time Warehouse Analytics & Automation Dashboard
 
+## ⚡ Live Dashboard Preview
+![Dashboard](assets/dashboard1.png)
+
+---
+
+## 🔄 Real-Time Automation Demo
+![Demo](assets/demo.gif)
+
+---
+
 ## 🚀 Overview
 This project is a real-time simulation of an e-commerce warehouse system, designed to demonstrate how modern data pipelines, analytics, and automation work together in supply chain operations.
 
